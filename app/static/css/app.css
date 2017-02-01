@@ -1,0 +1,41 @@
+body {
+    padding-top: 50px;
+}
+
+img {
+    float: left;
+    width: 30%;
+    height: 50%;
+    /*padding-right: 5%;*/
+}
+.info {
+    border: thin solid gray;
+    border-radius: 5px;
+    /*padding-left:2%;*/
+    width: 60%;
+    height: 50%;
+    float: left;
+}
+
+.header {
+    background-color: gray;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 10px;
+}
+
+
+
+.date {
+    border-bottom: thin solid gray;
+    padding-bottom: 10px;
+}
+
+.body {
+    padding: 20px;
+}
+
+.footnote {
+    border-top: thin solid gray;
+    padding-top: 10px;
+}
